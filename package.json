@@ -5,7 +5,7 @@
   "main": "index",
   "dependencies": {
     "java": "latest",
-    "lodash": "^3.10.0",
+    "lodash": "^4.17.4",
     "semver": "^5.1.0",
     "xml2js": "~0.4.9"
   },
@@ -18,8 +18,8 @@
     "url": "https://github.com/hiteshjoshi/node-stanford-corenlp/issues"
   },
   "devDependencies": {
-    "should": "~7.0.1",
-    "mocha": "~2.2.5"
+    "mocha": "^3.2.0",
+    "should": "^11.1.2"
   },
   "directories": {
     "example": "examples",
